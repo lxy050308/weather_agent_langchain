@@ -606,10 +606,10 @@ Agent
 
 |技术|版本|
 |-|-|
-|Python|3.x|
-|LangChain|1.x|
-|LangGraph|latest|
-|DeepSeek API|LLM服务|
+|Python|3.11.x|
+|LangChain|1.3.11|
+|LangGraph|1.2.8|
+|DeepSeek|LLM服务|
 
 
 ---
